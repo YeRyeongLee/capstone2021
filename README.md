@@ -43,7 +43,7 @@ SWCON32101 데이터분석 캡스톤디자인
 ### 결과
 <img width="307" alt="스크린샷 2021-12-17 오전 11 22 38" src="https://user-images.githubusercontent.com/49444498/146478514-ad238fa3-3450-40db-a4e5-81fc63a10c74.png">
 <img width="998" alt="스크린샷 2021-12-17 오전 11 23 01" src="https://user-images.githubusercontent.com/49444498/146478590-a1cc5756-23c9-4e04-9276-d127ce81ca4e.png">       
-![image](https://user-images.githubusercontent.com/49444498/146479631-4d79241f-80d7-4e5c-8d96-b55ad049f00c.png)
+<img width="476" alt="그림1" src="https://user-images.githubusercontent.com/49444498/146479817-839063d3-4672-4d9b-8512-83baa4e33b8a.png">      
 
 > 모두 40%대의 accuracy.     
 그 중 형태소 단위 데이터를 Tf-idf으로 전처리하여 SVM으로 훈련시키는 것이 가장 accuracy가 높았다.      
